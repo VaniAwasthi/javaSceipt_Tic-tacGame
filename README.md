@@ -1,4 +1,5 @@
 # javaSceipt_Tic-tacGame
 
-![Screenshot 2023-05-10 181814](https://github.com/VaniAwasthi/javaSceipt_Tic-tacGame/assets/83571284/a28a064d-6685-41fd-a211-5524c4c2c9ff)
-![Screenshot 2023-05-10 182032](https://github.com/VaniAwasthi/javaSceipt_Tic-tacGame/assets/83571284/3491c68a-1a04-445a-a0a1-7bfc80844579)
+![Screenshot 2023-05-10 190707](https://github.com/VaniAwasthi/javaScript_Tic-tacGame/assets/83571284/ce30921c-fb33-47e2-bd37-e526071c6bb7)
+![Screenshot 2023-05-10 190805](https://github.com/VaniAwasthi/javaScript_Tic-tacGame/assets/83571284/dd4abd76-6103-4865-a7e1-45617d1b1877)
+![Screenshot 2023-05-10 190659](https://github.com/VaniAwasthi/javaScript_Tic-tacGame/assets/83571284/eb57a74a-57cf-4376-b496-d1383066fabc)
