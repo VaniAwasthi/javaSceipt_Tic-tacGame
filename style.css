@@ -5,7 +5,7 @@
   }
 
   body {
-    background-color: #eecf79;
+    background-color: #56baed;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +16,7 @@
   .tic-tac-toe {
     width: 350px;
     margin: 20px auto;
-    background-color: #eeb879;
+    background-color: white ;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -51,6 +51,7 @@
 
   .board-cell {
     width: 100px;
+    color: #56baed;
     height: 100px;
     border: 1px solid #000000;
     cursor: pointer;
@@ -62,14 +63,14 @@
   }
 
   .turn {
-    color: #68432b;
+    color: #56baed;
     font-size: 1.5rem;
     font-weight: bold;
     margin: 10px 0;
   }
 
   .restart {
-    background-color: #68432b;
+    background-color: #56baed;
     color: #ffffff;
     border: none;
     border-radius: 5px;
